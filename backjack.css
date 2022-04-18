@@ -1,0 +1,23 @@
+.game{
+    background-color: aliceblue;
+    border-style: dashed;
+    text-align: center;
+    margin: 100px 250px 0px 250px;
+    padding:20px 0px 20px 0px;
+}
+
+h1{
+    color:rgb(190, 74, 83);
+}
+
+#text{
+    color:rgb(145, 108, 128);
+}
+
+#start-game{
+    background-color: rgb(131, 136, 67);
+}
+
+#new-game{
+    background-color: rgb(131, 136, 67);
+}
